@@ -1,0 +1,15 @@
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\turn.csproj.AssemblyReference.cache
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\turn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\turn.AssemblyInfoInputs.cache
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\turn.AssemblyInfo.cs
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\turn.csproj.CoreCompileInputs.cache
+C:\Users\Aguinaldo\Desktop\turn\bin\Debug\net7.0\turn.exe
+C:\Users\Aguinaldo\Desktop\turn\bin\Debug\net7.0\turn.deps.json
+C:\Users\Aguinaldo\Desktop\turn\bin\Debug\net7.0\turn.runtimeconfig.json
+C:\Users\Aguinaldo\Desktop\turn\bin\Debug\net7.0\turn.dll
+C:\Users\Aguinaldo\Desktop\turn\bin\Debug\net7.0\turn.pdb
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\turn.dll
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\refint\turn.dll
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\turn.pdb
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\turn.genruntimeconfig.cache
+C:\Users\Aguinaldo\Desktop\turn\obj\Debug\net7.0\ref\turn.dll
